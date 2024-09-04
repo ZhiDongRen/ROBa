@@ -1,5 +1,5 @@
 # ROBa
-
+**Read this in other languages [english](README.md),[中文]（README_ch.md）.**
 Project for the robotics course. This project aims to implement base nodes (listeners/publishers) for arduino mega sensors (SRF08 sonars and MinIMU-9) and the Asus xtionPro live camera. The nodes will run on Odroid XU4 with Ubuntu 18.04 and ROS melodic.  
 There are standalone libraries for the `SRF08 sonar` and `MinIMU-9` sensors (`LSM6` and `LIS3MDL`). You just need to download and include in your main file.
 
