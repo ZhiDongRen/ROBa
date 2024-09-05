@@ -1,6 +1,6 @@
 # 机器人
 ### **Read this in other languages [english](README.md), [中文](README_ch.md).**
-该项目旨在为 arduino 大型传感器（SRF08 声纳和 MinIMU-9）和华硕 xtionPro 实时摄像头实现基础节点（侦听器/发布者）。这些节点将在 Ubuntu 18.04 和 ROS 旋律的 Odroid XU4 上运行。 
+该项目旨在为 arduino 大型传感器（SRF08 声纳和 MinIMU-9）和华硕 xtionPro 实时摄像头实现基础节点（侦听器/发布者）。这些节点将在 Ubuntu 18.04 和 ROS melodic的 Odroid XU4 上运行。 
 “SRF08 声纳”和“MinIMU-9”传感器（“LSM6”和“LIS3MDL”）有独立的库。您只需要下载并包含在您的主文件中。
 
 ## 图像处理
